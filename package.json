@@ -1,0 +1,22 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Excel-course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBor25/Excel.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "AlexBor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBor25/Excel/issues"
+  },
+  "homepage": "https://github.com/AlexBor25/Excel#readme"
+}
