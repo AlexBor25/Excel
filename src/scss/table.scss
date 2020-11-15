@@ -74,8 +74,9 @@
     width: 4px;
     background: $primary-color;
     opacity: 0;
+    z-index: 1000;
     &:hover {
-      opacity: 1;
+      opacity: 1!important;
       cursor: col-resize;
     }
   }
@@ -88,8 +89,9 @@
     height: 4px;
     background: $primary-color;
     opacity: 0;
+    z-index: 1000;
     &:hover {
-      opacity: 1;
+      opacity: 1!important;
       cursor: row-resize;
     }
   }
